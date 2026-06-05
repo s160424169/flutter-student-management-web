@@ -59,4 +59,4 @@ This project shifted how I think about collaborative development. Writing good c
 
 ---
 
-*Built as part of Informatics coursework at Universitas Surabaya · 2024*
+*Built as part of Informatics coursework at Universitas Surabaya · 2025*
