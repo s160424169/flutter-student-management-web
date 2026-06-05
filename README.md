@@ -6,7 +6,7 @@
 
 ## What Is This?
 
-A web-based platform built with Flutter where students can register and manage their profiles — including name, major, hobbies — and interact with peers through a friend connection feature.
+A web-based platform built with Flutter where students can register and manage their profiles including name, major, hobbies and interact with peers through a friend connection feature.
 
 Built as a group university project, this was my first real experience with Flutter web development. But the most important thing I learned here had nothing to do with Flutter.
 
@@ -25,7 +25,7 @@ Built as a group university project, this was my first real experience with Flut
 
 ## The Turning Point
 
-Midway through, a teammate picked up my code and **hesitated** — not because the logic was wrong, but because I had written it only for myself.
+Midway through, a teammate picked up my code and **hesitated** not because the logic was wrong, but because I had written it only for myself.
 
 That moment changed how I think about code: **it is a form of communication, not just instruction to the machine.** I went back and restructured the entire codebase with the next person in mind.
 
@@ -55,7 +55,7 @@ Establish documentation standards **at the start** of the project, not after the
 
 ## Reflection
 
-This project shifted how I think about collaborative development. Writing good code for a team is a completely different skill from writing code that works. I want to keep developing that skill — especially as I move toward building more complex products with more people.
+This project shifted how I think about collaborative development. Writing good code for a team is a completely different skill from writing code that works. I want to keep developing that skill especially as I move toward building more complex products with more people.
 
 ---
 
